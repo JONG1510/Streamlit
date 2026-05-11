@@ -1,3 +1,5 @@
+# specify version; new versions might have bugs or malware
+
 streamlit
 pandas
 numpy
